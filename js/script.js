@@ -113,7 +113,7 @@ function Page() {
         const Dhika_Resta = 'https://cdn4.mbahnunungonline.net/img/Dhika.png';
         const Rozy = 'https://images2.imgbox.com/64/0e/V0L2UmSW_o.jpg';
         const Reny = 'https://cdns-images.dzcdn.net/images/cover/c4618c2ceba8781cb55443690a11c07d/1900x1900-000000-80-0-0.jpg';
-        const O-NET = 'https://i.imgur.com/hMcpz6m.png';
+        const O_NET = 'https://i.imgur.com/hMcpz6m.png';
         const AlviAnanta = 'https://i1.sndcdn.com/artworks-000691852279-zhd4cw-t500x500.jpg';
         const Catur_Arum  = 'https://i1.sndcdn.com/artworks-000227858822-l8w6ww-t500x500.jpg'; 
         const Syahiba_Saufa_Ft_Shinta_Arsinta = 'https://i.scdn.co/image/ab67616d0000b2737dd4ba70910664a26fb1c7e0'; 
@@ -162,7 +162,7 @@ function Page() {
             else if (artist == 'DHIKA RESTA') {var urlCoverArt = Dhika_Resta;}
             else if (artist == 'Rozy Abdillah') {var urlCoverArt = Rozy;} 
             else if (artist == 'Reny Farida') {var urlCoverArt = Reny;} 
-            else if (artist == 'O-NET') {var urlCoverArt = O-NET;} 
+            else if (artist == 'O-NET') {var urlCoverArt = O_NET;} 
             else if (artist == 'Alvi Ananta') {var urlCoverArt = AlviAnanta;} 
             else if (artist == 'Catur Arum') {var urlCoverArt = Catur_Arum;} 
             else if (artist == 'Syahiba Saufa Ft. Shinta Arsinta') {var urlCoverArt = Syahiba_Saufa_Ft_Shinta_Arsinta;} 
