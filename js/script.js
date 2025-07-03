@@ -100,7 +100,7 @@ function Page() {
         const Ajeng = 'https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e5/47/cf/e547cfe3-f707-7175-9123-b640435f6a8c/cover.jpg/1200x1200bb.jpg';
         const Agnes_Monica = 'https://i.scdn.co/image/ab6761610000e5eb09160e5ffdc256e65713a8a9';
         const Anji = 'https://upload.wikimedia.org/wikipedia/commons/f/f6/ANJI.jpg';
-        const LA_PRO = 'https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/MTA-102109066/no_brand_lapro-la-pro-obat-tetes-mata-minus-plus-silinder-glaukoma-katarak_full00_1AA43EBE-4FAF-40C2-BE67-779FB2565C04.jpg';
+        const LA_PRO = 'https://thumbs2.imgbox.com/97/a5/WcuY32BU_t.jpg';
         const Ari_Lasso = 'https://i.scdn.co/image/ab6761610000e5eb4e1ed336c3ff93a95fa44e14';
         const Muhamad_Handoyo = 'https://cdn4.mbahnunungonline.net/img/Handoyo.png';
         const Andmesh = 'https://i1.sndcdn.com/artworks-000644192974-fr8aja-t500x500.jpg';
@@ -113,7 +113,7 @@ function Page() {
         const Dhika_Resta = 'https://cdn4.mbahnunungonline.net/img/Dhika.png';
         const Rozy = 'https://images2.imgbox.com/64/0e/V0L2UmSW_o.jpg';
         const Reny = 'https://cdns-images.dzcdn.net/images/cover/c4618c2ceba8781cb55443690a11c07d/1900x1900-000000-80-0-0.jpg';
-        const O_NET = 'https://i.imgur.com/hMcpz6m.png';
+        const O_NET = 'https://thumbs2.imgbox.com/20/2e/buhVO6pu_t.png';
         const AlviAnanta = 'https://i1.sndcdn.com/artworks-000691852279-zhd4cw-t500x500.jpg';
         const Catur_Arum  = 'https://i1.sndcdn.com/artworks-000227858822-l8w6ww-t500x500.jpg'; 
         const Syahiba_Saufa_Ft_Shinta_Arsinta = 'https://i.scdn.co/image/ab67616d0000b2737dd4ba70910664a26fb1c7e0'; 
