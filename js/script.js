@@ -92,7 +92,7 @@ function Page() {
         const OpeningRadio = 'https://d1csarkz8obe9u.cloudfront.net/posterpreviews/opening-soon-design-template-945288577483c2347c1f05bb83a2b7a2_screen.jpg?ts=1575470323';
         const LAGUPENUTUPRADIO = 'https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/ec/3f/64/ec3f643b-0ffd-eb61-9ccf-c8d2c027594f/3ad3589a-548e-4b13-970c-83a2937c7d5c.jpg/1200x1200bb.jpg';
         const BIO7 = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcN6afCaXgfDnbaHRsxtEYYsLR3B2Sxe8KZeXXFH0Qk1eJSFF_Yu-b8HyovPS_K5oIWc7PMfA3o0nogOgx4a37JDyg_I1piMn-VrlgZkHKdZG7m2iETe5V8lX15FejJMW82ZuNCnmd3gg/s320/Bi07-bioactiva+series+-+toko+almishbah3.JPG';
-        const AINUCARE = 'https://down-id.img.susercontent.com/file/id-11134207-7rbke-m9bo1u2s9v593f_tn.webp';
+        const AINUCARE = 'https://thumbs2.imgbox.com/87/d2/fBkEsB3E_t.jpg';
         const HAPRO = 'https://mms.img.susercontent.com/id-11134207-7rasd-m37ssycwwei7da_tn';
         const SHOLAWAT = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIpqY48J4bs8uxDW02DXU_87iAkbYboTn0pxJQ5p0wyoQKt4YYr7BnqczK2UhAcbHkeUyM2m-5IHhUD_jTvWts-7HPMgRU1s4ZJsstS-Kq74NNqHRgsdxkrUoEGhttVFPkCjjR_O766XT_r1WaC2kcUgwkAP9zWSXLzvocqlz-0Y8NU3ViCiC-T9Jfb5bz/s1600/Wf3SDEt.png';
         const Suara_Banyuwangi = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm0Egnpi0LhJ0-4yVJkz3lQRrZddxorFp_8kezOW3bf2u1-EkBkY-dDD-hLiFE2yHPKP71-BFy3YBJAHuZ0muJ8AhXBT-w3XZI7Kz-iCFw0O_zbdUsVOAEC8xpjXhzRZJCaBEqcsyAr8WIcmx-cxJ_-yZ4HX_Rh8AI9yK1pJmLKqUX3xnY-vNeXiyn3aI/s1600/suarabanyuwangi.jpg';
