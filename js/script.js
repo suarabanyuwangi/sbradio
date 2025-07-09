@@ -90,7 +90,7 @@ function Page() {
         const ASHAR = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAkb2u1BXZyewCrcabezpQsAP5OVlOJBW1bSR2VD3Ct497ubsePRslOC74TCSna3aKQoPo8j_oPsX0UZpC1Qau0-pztX0uH66cuxA2F017wwnoFXYauEwaJPiqLEjtepu4PH0xxwVVIXExDIRCw7yWREoGPxQ5pN-gLftIwtSJD7fcUOgeuGMtGAyR-RYu/s1600/uJr1nZIi_t.jpg';
         const ADZANMAGHRIB = 'https://i.scdn.co/image/ab67616d0000b2736e9736d44d30472e61dd7118';
         const OpeningRadio = 'https://d1csarkz8obe9u.cloudfront.net/posterpreviews/opening-soon-design-template-945288577483c2347c1f05bb83a2b7a2_screen.jpg?ts=1575470323';
-        const LAGUPENUTUPRADIO = 'https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/ec/3f/64/ec3f643b-0ffd-eb61-9ccf-c8d2c027594f/3ad3589a-548e-4b13-970c-83a2937c7d5c.jpg/1200x1200bb.jpg';
+        const JINGLE_PENUTUP = 'https://is4-ssl.mzstatic.com/image/thumb/Music122/v4/ec/3f/64/ec3f643b-0ffd-eb61-9ccf-c8d2c027594f/3ad3589a-548e-4b13-970c-83a2937c7d5c.jpg/1200x1200bb.jpg';
         const BIO7 = 'https://thumbs2.imgbox.com/93/c9/TLJNKuAG_t.jpg';
         const AINUCARE = 'https://thumbs2.imgbox.com/87/d2/fBkEsB3E_t.jpg';
         const HAPRO = 'https://mms.img.susercontent.com/id-11134207-7rasd-m37ssycwwei7da_tn';
@@ -140,7 +140,7 @@ function Page() {
             else if (artist == 'ADZAN ASHAR') {var urlCoverArt = ASHAR;}
             else if (artist == 'ADZAN MAGHRIB') {var urlCoverArt = ADZANMAGHRIB;}
             else if (artist == 'Opening Radio') {var urlCoverArt = OpeningRadio;}
-            else if (artist == 'LAGU PENUTUP RADIO') {var urlCoverArt = LAGUPENUTUPRADIO;}
+            else if (artist == 'JINGLE PENUTUP') {var urlCoverArt = JINGLE_PENUTUP;}
             else if (artist == 'BIO7') {var urlCoverArt = BIO7;}
             else if (artist == 'AINUCARE') {var urlCoverArt = AINUCARE;}
             else if (artist == 'H PRO') {var urlCoverArt = HAPRO;}
