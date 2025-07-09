@@ -103,10 +103,12 @@ function Page() {
         const LA_PRO = 'https://thumbs2.imgbox.com/97/a5/WcuY32BU_t.jpg';
         const Ari_Lasso = 'https://i.scdn.co/image/ab6761610000e5eb4e1ed336c3ff93a95fa44e14';
         const Muhamad_Handoyo = 'https://cdn4.mbahnunungonline.net/img/Handoyo.png';
+        const Handoyo = 'https://cdn4.mbahnunungonline.net/img/Handoyo.png';
         const Andmesh = 'https://i1.sndcdn.com/artworks-000644192974-fr8aja-t500x500.jpg';
         const Dewa_19_Ft_Virzha = 'https://i.scdn.co/image/ab67616d0000b2734383e26d01a2dd18452b7b37';
         const Dewa_19_Ft_Ello = 'https://i.scdn.co/image/ab67616d0000b2730b591f8644a5a5106169a30a';
         const Rendra_Prasetyo = 'https://cdn4.mbahnunungonline.net/img/Rendra.png';
+        const Rendra = 'https://cdn4.mbahnunungonline.net/img/Rendra.png';
         const EghaLatoya  = 'https://i1.sndcdn.com/artworks-000145717002-8rm80q-t500x500.jpg';
         const GamelAwan = 'https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/99/b5/ef/99b5ef28-8196-0307-dd64-d3defa86eb50/cover.jpg/1200x1200bb.png';
         const Cassandra = 'https://i1.sndcdn.com/artworks-NKrGa2evriMT-0-t500x500.jpg';
@@ -153,9 +155,11 @@ function Page() {
             else if (artist == 'LA PRO') {var urlCoverArt = LA_PRO;}
             else if (artist == 'Ari Lasso') {var urlCoverArt = Ari_Lasso;}
             else if (artist == 'MUHAMAD HANDOYO') {var urlCoverArt = Muhamad_Handoyo;}
+            else if (artist == 'HANDOYO') {var urlCoverArt = Handoyo;}    
             else if (artist == 'Andmesh') {var urlCoverArt = Andmesh;}
             else if (artist == 'Dewa 19 Ft Virzha') {var urlCoverArt = Dewa_19_Ft_Virzha;}
             else if (artist == 'RENDRA PRASETYO') {var urlCoverArt = Rendra_Prasetyo;}
+            else if (artist == 'RENDRA') {var urlCoverArt = Rendra;}    
             else if (artist == 'Egha De Latoya') {var urlCoverArt = EghaLatoya;}
             else if (artist == 'Gamel Awan') {var urlCoverArt = GamelAwan;}
             else if (artist == 'Cassandra') {var urlCoverArt = Cassandra;}
