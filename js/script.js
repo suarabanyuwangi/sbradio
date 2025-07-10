@@ -80,7 +80,7 @@ function Page() {
         const HAZAFIT = 'https://id-test-11.slatic.net/p/b3a25c4966350da984bc04983b527d6e.jpg';
         const Commercial_Break = "https://live.staticflickr.com/65535/53805955404_bc1c26a8c8_z.jpg";
         const Raisa = 'https://i.scdn.co/image/ab67616d0000b2738bd2fdd47fa594b1362682a9';
-        const TS = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoYOoThYoQy_1IHIOkOWhSv7ZumvhWQVgCCUAa1PtItmRqi7LpFLBOlRVnmMJvjw2_m91utqlbmj_XRJzqxROWHC5fJqk664UghWdsbX_sqI4vMFue3Ii68m4cfh5kQNAWFM6v4YGjSyP1TdH1SySeBmMx9Ewaeyyu5qhTcon4wKP0VFY9KxHvJrEScFED/s1600/P8KFcGD.png';
+        const Della_Monica = 'https://i1.sndcdn.com/artworks-000691872055-4fze2e-t500x500.jpg';
         const Erina = 'https://i.ytimg.com/vi/1NTsu5MhbpA/sddefault.jpg';
         const SEKAR_KIJANG = 'https://cdn-images.dzcdn.net/images/cover/de30690a397431bbcdbde02e0b63371f/500x500-000000-80-0-0.jpg';
         const JINGLE = 'https://cdn.suarabanyuwangi.info/img/Jingle_Radio.png';
@@ -132,7 +132,7 @@ function Page() {
         if (artist == 'HAZAFIT') {var urlCoverArt = HAZAFIT;}
             else if (artist == 'Commercial Break') {var urlCoverArt = Commercial_Break;}
             else if (artist == 'Raisa') {var urlCoverArt = Raisa;}
-            else if (artist == 'TS') {var urlCoverArt = TS;}
+            else if (artist == 'Della Monica') {var urlCoverArt = Della_Monica;}
             else if (artist == 'Erina') {var urlCoverArt = Erina;}
             else if (artist == 'SEKAR KIJANG') {var urlCoverArt = SEKAR_KIJANG;}
             else if (artist == 'JINGLE') {var urlCoverArt = JINGLE;}
