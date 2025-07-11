@@ -122,7 +122,7 @@ function Page() {
         const Lusiana = 'https://thumbs2.imgbox.com/da/bd/1aijXmkg_t.jpg'; 
         const Suliyana = 'https://i.scdn.co/image/ab67616d0000b2733e4c6986797db1877c5be37d';
         const Syahiba = 'https://i.scdn.co/image/ab67616d0000b27378fdcad5374c66bd8f7321c5'; 
-        const TOP_NEWS = 'https://yt3.googleusercontent.com/5igbUX2hqYwRAW2eQMcGdoC9hfjMVeKXhbpB-syB4LQ-bzBtla7OMfEE1faIdgfWnM9oRlPc-w=s900-c-k-c0x00ffffff-no-rj';
+        const TOP_NEWS = 'https://play-lh.googleusercontent.com/ddFW3W44VzPqYojvK4iEDsdbk8VgYg5nfw2AhOkqZbOXQTdg2DRVtDJfQapP2PVf4g';
         const Virgia_Hassan = 'https://i.ytimg.com/vi/g3A7Cp2yAro/maxresdefault.jpg';
         const Vita = 'https://live.staticflickr.com/65535/53458574431_71955797d8_z.jpg';
         const Melinda_Varera = 'https://i.scdn.co/image/ab67616d0000b2739e8575dbb9c92a4f3984a811';
