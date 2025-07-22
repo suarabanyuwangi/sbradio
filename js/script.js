@@ -75,14 +75,14 @@ function Page() {
         }
     }
      
-  // Artist Covers - Below 
+ // Artist Covers - Below 
   this.refreshCover = function (song = '', artist) {
         const HAZAFIT = 'https://id-test-11.slatic.net/p/b3a25c4966350da984bc04983b527d6e.jpg';
         const Commercial_Break = "https://live.staticflickr.com/65535/53805955404_bc1c26a8c8_z.jpg";
         const Raisa = 'https://i.scdn.co/image/ab67616d0000b2738bd2fdd47fa594b1362682a9';
         const Della_Monica = 'https://i1.sndcdn.com/artworks-000691872055-4fze2e-t500x500.jpg';
         const Erina = 'https://i.ytimg.com/vi/1NTsu5MhbpA/sddefault.jpg';
-        const SEKAR_KIJANG = 'https://cdn-images.dzcdn.net/images/cover/de30690a397431bbcdbde02e0b63371f/500x500-000000-80-0-0.jpg';
+        const Happy_Asmara = 'https://i1.sndcdn.com/artworks-a9HEa272aWLyZWJn-Q8aisA-t500x500.jpgg';
         const JINGLE = 'https://cdn.suarabanyuwangi.info/img/Jingle_Radio.png';
         const JINGLESETELAHIKLAN = 'https://lastfm.freetls.fastly.net/i/u/770x0/4b910aad2337b3254673b4562e89bc4e.png';
         const BENTRAP = 'https://thumbs2.imgbox.com/9c/7c/NhSEFqAC_t.png';
@@ -134,7 +134,7 @@ function Page() {
             else if (artist == 'Raisa') {var urlCoverArt = Raisa;}
             else if (artist == 'Della Monica') {var urlCoverArt = Della_Monica;}
             else if (artist == 'Erina') {var urlCoverArt = Erina;}
-            else if (artist == 'SEKAR KIJANG') {var urlCoverArt = SEKAR_KIJANG;}
+            else if (artist == 'Happy Asmara') {var urlCoverArt = Happy_Asmara;}
             else if (artist == 'JINGLE') {var urlCoverArt = JINGLE;}
             else if (artist == 'JINGLE SETELAH IKLAN') {var urlCoverArt = JINGLESETELAHIKLAN;}   
             else if (artist == 'BENTRAP') {var urlCoverArt = BENTRAP;}
