@@ -94,7 +94,7 @@ function Page() {
         const BIO7 = 'https://thumbs2.imgbox.com/93/c9/TLJNKuAG_t.jpg';
         const AINUCARE = 'https://thumbs2.imgbox.com/87/d2/fBkEsB3E_t.jpg';
         const HAPRO = 'https://mms.img.susercontent.com/id-11134207-7rasd-m37ssycwwei7da_tn';
-        const SHOLAWAT = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIpqY48J4bs8uxDW02DXU_87iAkbYboTn0pxJQ5p0wyoQKt4YYr7BnqczK2UhAcbHkeUyM2m-5IHhUD_jTvWts-7HPMgRU1s4ZJsstS-Kq74NNqHRgsdxkrUoEGhttVFPkCjjR_O766XT_r1WaC2kcUgwkAP9zWSXLzvocqlz-0Y8NU3ViCiC-T9Jfb5bz/s1600/Wf3SDEt.png';
+        const KH_ZAINUDDIN_MZ = 'https://play-lh.googleusercontent.com/lpYrYFiAhiFxcg5x70lCi8CevFxWpQznUxBG88JMGCMSR4bBbI9Hhjz5D4UhnRZzYF4';
         const Suara_Banyuwangi = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm0Egnpi0LhJ0-4yVJkz3lQRrZddxorFp_8kezOW3bf2u1-EkBkY-dDD-hLiFE2yHPKP71-BFy3YBJAHuZ0muJ8AhXBT-w3XZI7Kz-iCFw0O_zbdUsVOAEC8xpjXhzRZJCaBEqcsyAr8WIcmx-cxJ_-yZ4HX_Rh8AI9yK1pJmLKqUX3xnY-vNeXiyn3aI/s1600/suarabanyuwangi.jpg';
         const AlffyRev  = 'https://i.scdn.co/image/ab67616d0000b273d0572746e75788f3a073899b';
         const Ajeng = 'https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e5/47/cf/e547cfe3-f707-7175-9123-b640435f6a8c/cover.jpg/1200x1200bb.jpg';
@@ -148,7 +148,7 @@ function Page() {
             else if (artist == 'BIO7') {var urlCoverArt = BIO7;}
             else if (artist == 'AINUCARE') {var urlCoverArt = AINUCARE;}
             else if (artist == 'H PRO') {var urlCoverArt = HAPRO;}
-            else if (artist == 'SHOLAWAT THIBBIL QULUB') {var urlCoverArt = SHOLAWAT;}
+            else if (artist == 'KH ZAINUDDIN MZ') {var urlCoverArt = KH_ZAINUDDIN_MZ;}
             else if (artist == 'Suara Banyuwangi') {var urlCoverArt = Suara_Banyuwangi;}
             else if (artist == 'Alffy Rev') {var urlCoverArt = AlffyRev;}
             else if (artist == 'Ajeng') {var urlCoverArt = Ajeng;}
