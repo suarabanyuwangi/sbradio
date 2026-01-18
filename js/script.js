@@ -22,7 +22,7 @@ const url = 'https://api.zeno.fm/mounts/metadata/subscribe/5y0exp3phzzuv';
 const API_KEY = "18fe07917957c289983464588aabddfb";
 
 // Change DEFAULT COVER
-const DEFAULT_COVER_ART = 'https://cdn.suarabanyuwangi.info/img/rsb-cover.png';
+const DEFAULT_COVER_ART = 'https://live.staticflickr.com/65535/53459011184_1df18fcc82_b.jpg';
 
 // Variable to control history display: true = display / false = hides
 let showHistory = true; 
@@ -95,7 +95,7 @@ function Page() {
         const AINUCARE = 'https://thumbs2.imgbox.com/87/d2/fBkEsB3E_t.jpg';
         const HAPRO = 'https://mms.img.susercontent.com/id-11134207-7rasd-m37ssycwwei7da_tn';
         const KH_ZAINUDDIN_MZ = 'https://play-lh.googleusercontent.com/lpYrYFiAhiFxcg5x70lCi8CevFxWpQznUxBG88JMGCMSR4bBbI9Hhjz5D4UhnRZzYF4';
-        const Suara_Banyuwangi = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm0Egnpi0LhJ0-4yVJkz3lQRrZddxorFp_8kezOW3bf2u1-EkBkY-dDD-hLiFE2yHPKP71-BFy3YBJAHuZ0muJ8AhXBT-w3XZI7Kz-iCFw0O_zbdUsVOAEC8xpjXhzRZJCaBEqcsyAr8WIcmx-cxJ_-yZ4HX_Rh8AI9yK1pJmLKqUX3xnY-vNeXiyn3aI/s1600/suarabanyuwangi.jpg';
+        const Suara_Banyuwangi = 'https://cdn.suarabanyuwangi.info/img/rsb-cover.png';
         const AlffyRev  = 'https://i.scdn.co/image/ab67616d0000b273d0572746e75788f3a073899b';
         const Ajeng = 'https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e5/47/cf/e547cfe3-f707-7175-9123-b640435f6a8c/cover.jpg/1200x1200bb.jpg';
         const Agnes_Monica = 'https://i.scdn.co/image/ab6761610000e5eb09160e5ffdc256e65713a8a9';
